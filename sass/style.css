@@ -1228,6 +1228,7 @@ input[type=text] {
 	place-items: center;
 }
 
-/* .facebook path {
-  fill: #4267B2;
-} */
+
+.section-content p {
+  color: white;
+}
